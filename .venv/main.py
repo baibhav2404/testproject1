@@ -1,1 +1,1 @@
-print("Jai Shree Ram")
+print("Allah Hu Akbar")
